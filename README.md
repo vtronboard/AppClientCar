@@ -1,5 +1,3 @@
-# App Client Car
-
 # About Project
 
 # Prototype App Android VTron Car
