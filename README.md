@@ -15,5 +15,9 @@ Prototype of the plate that is installed in the vehicle, to control its function
 - Accreditation MCTEA - 2016.
 - Premium MNR - 2016.
 
+# Time
+![screenshot](https://github.com/vtronboard/AppClientCar/blob/master/img/time.jpg)
+
 # Credits
+
 
