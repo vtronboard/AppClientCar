@@ -5,7 +5,7 @@ With the advancement of engineering with technology, it has become common to com
 
 # Prototype
 - App Android VTron Car
-![screenshot](https://github.com/vtronboard/AppClientCar/blob/master/img/app_car.jpg)
+![screenshot](https://github.com/vtronboard/AppClientCar/blob/master/img/vtron_car_app_mocup-min.png)
 
 # Prototype
 - of the plate that is installed in the vehicle, to control its functionalities.
